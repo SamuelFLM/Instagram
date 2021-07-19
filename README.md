@@ -6,3 +6,5 @@ Através do curso de Html e css, conseguir desenvolver uma pagina web usando com
 
 * [HTML básico](https://www.w3schools.com/html/)
 * [CSS básico]()
+
+Desenvolvido no Bootcamp Web Developer (digital innovation one)
